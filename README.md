@@ -9,5 +9,5 @@ currently pouring a year of crafting into **Flaretune** — a modern music exper
 
 <p>
   <a href="https://cloudflare.com"><img src="https://file.arcinks.com/www/images/cloudflare.svg" height="20" alt="Cloudflare" /></a>
-  <a href="https://arctan.top" style="margin-left: 12px;"><img src="https://file.arctan.top/www/images/favicon.svg" height="20" alt="YIFANG" /></a>
+  <a href="https://arcinks.com" style="margin-left: 12px;"><img src="https://file.arctan.top/www/images/favicon.svg" height="20" alt="YIFANG" /></a>
 </p>
