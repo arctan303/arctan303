@@ -9,8 +9,5 @@ currently pouring a year of crafting into **Flaretune** — a modern music exper
 
 ---
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,ts,py,docker,linux)](https://skillicons.dev)
